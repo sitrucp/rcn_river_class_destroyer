@@ -69,6 +69,22 @@ components.
 
 <img src="rcn_river_class_destroyer_country_summary.png" alt="Approximate share of River-class destroyer major components by sourcing country" width="50%">
 
+The percentages count major system categories or supplier packages, not every physical component installed on the ships.
+
+Examples of counted items include:
+
+- Structural systems: hull steel and aluminum, lead ballast
+- Propulsion: MT30 gas turbine, diesel generators, electric propulsion motors, propellers, steering gear, and stabilizers
+- Ship handling: mission-bay and helicopter-handling systems
+- Sensors: SPY-7 radar, hull-mounted sonar, towed-array sonar, and laser-warning system
+- Electronic systems: electronic-warfare suite, combat-management system, integrated bridge, navigation, surveillance, and platform-management systems
+- Weapons: main gun, missile systems, torpedo launchers, Naval Strike Missile, and Nulka decoys
+- Supporting equipment: engine exhaust and infrared-suppression equipment, flexible hoses, and bellows
+
+A counted “component” may represent an entire system containing thousands of parts. For example, the SPY-7 radar counts similarly to the lead-ballast package, despite major differences in cost and complexity.
+
+The reports also investigate nuts, bolts, fasteners, communications equipment, small arms, and close-in weapons, but these do not appear to be included in the percentage calculation because their suppliers or production locations were not identified clearly enough.
+
 ## Research Questions
 
 The reports were created to investigate:
