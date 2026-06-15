@@ -47,6 +47,36 @@ For the sourcing analysis, a component's assigned country may represent the
 supplier's headquarters, design origin, known manufacturing location, or a
 best-supported estimate. These are not always the same place.
 
+## Research Findings Summary
+
+Based on the major components and systems identified in the research, Canada
+has the largest approximate sourcing share at **47.6%**. The United States
+accounts for **19.0%**, followed by the United Kingdom at **14.3%**,
+Norway/Europe at **9.5%**, and France and Australia at **4.8%** each.
+
+The findings indicate that almost half of the identified major systems have a
+Canadian sourcing connection, while a substantial portion of the destroyer's
+specialized weapons, sensors, propulsion equipment, and other systems comes
+from international suppliers. Canada, the United States, and the United
+Kingdom together account for approximately **80.9%** of the identified major
+components.
+
+| Country / Region | Approximate Share of Identified Major Components |
+| --- | ---: |
+| Canada | 47.6% |
+| United States | 19.0% |
+| United Kingdom | 14.3% |
+| Norway/Europe | 9.5% |
+| France | 4.8% |
+| Australia | 4.8% |
+
+![Approximate share of River-class destroyer major components by sourcing country](rcn_river_class_destroyer_country_summary.png)
+
+> [!NOTE]
+> These percentages are approximate shares based on the number of major
+> systems identified in the research. They are not weighted by procurement
+> cost, physical weight, material volume, labour, or total economic value.
+
 ## Research Questions
 
 The reports were created to investigate:
@@ -90,4 +120,3 @@ git clone git@github.com:sitrucp/rcn_river_class_destroyer.git
 ```
 
 GitHub: [sitrucp/rcn_river_class_destroyer](https://github.com/sitrucp/rcn_river_class_destroyer)
-
