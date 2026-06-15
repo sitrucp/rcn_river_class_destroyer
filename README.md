@@ -47,6 +47,18 @@ For the sourcing analysis, a component's assigned country may represent the
 supplier's headquarters, design origin, known manufacturing location, or a
 best-supported estimate. These are not always the same place.
 
+## NotebookLM Presentation Materials
+
+These presentation materials were generated with NotebookLM using the four
+research reports listed above as their source material. They provide a more
+visual overview of the research findings but may simplify details and inherit
+the estimates and limitations of the underlying reports.
+
+- [River-Class Fleet Architecture slide deck](NotebookLLM_River-class_Fleet_Architecture.pdf) - A 12-page presentation covering the destroyer's systems, supply-chain architecture, Canadian industrial participation, and international suppliers.
+- [River-Class Destroyer Impact infographic](NotebookLLM_River-Class_Destroyer_Impact.png) - A visual summary of the program's projected economic impact and major sourcing relationships.
+
+<img src="NotebookLLM_River-Class_Destroyer_Impact.png" alt="NotebookLM infographic showing the economic and global supply-chain impact of Canada's River-class destroyer" width="50%">
+
 ## Research Findings Summary
 
 Based on the number of major components and systems identified in the
