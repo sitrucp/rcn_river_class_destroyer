@@ -18,7 +18,7 @@ components by country and includes an initial attempt to estimate costs.
 
 ## Vessel Overview
 
-![Royal Canadian Navy River-class destroyer fact sheet](rcn_river_class_destroyer_fact_sheet.png)
+<img src="rcn_river_class_destroyer_fact_sheet.png" alt="Royal Canadian Navy River-class destroyer fact sheet" width="50%">
 
 [View the official River-class destroyer fact sheet PDF on Canada.ca](https://www.canada.ca/content/dam/rcn-mrc/documents/ships/river-class-factsheet-2026.pdf)
 
@@ -49,10 +49,16 @@ best-supported estimate. These are not always the same place.
 
 ## Research Findings Summary
 
-Based on the major components and systems identified in the research, Canada
-has the largest approximate sourcing share at **47.6%**. The United States
-accounts for **19.0%**, followed by the United Kingdom at **14.3%**,
-Norway/Europe at **9.5%**, and France and Australia at **4.8%** each.
+Based on the number of major components and systems identified in the
+research, Canada has the largest approximate sourcing share at **47.6%**.
+
+Note: These percentages represent a count of identified major systems and are not
+weighted by procurement cost, physical weight, material volume, labour, or
+total economic value.
+
+The United States accounts for **19.0%**, followed by
+the United Kingdom at **14.3%**, Norway/Europe at **9.5%**, and France and
+Australia at **4.8%** each.
 
 The findings indicate that almost half of the identified major systems have a
 Canadian sourcing connection, while a substantial portion of the destroyer's
@@ -61,21 +67,7 @@ from international suppliers. Canada, the United States, and the United
 Kingdom together account for approximately **80.9%** of the identified major
 components.
 
-| Country / Region | Approximate Share of Identified Major Components |
-| --- | ---: |
-| Canada | 47.6% |
-| United States | 19.0% |
-| United Kingdom | 14.3% |
-| Norway/Europe | 9.5% |
-| France | 4.8% |
-| Australia | 4.8% |
-
-![Approximate share of River-class destroyer major components by sourcing country](rcn_river_class_destroyer_country_summary.png)
-
-> [!NOTE]
-> These percentages are approximate shares based on the number of major
-> systems identified in the research. They are not weighted by procurement
-> cost, physical weight, material volume, labour, or total economic value.
+<img src="rcn_river_class_destroyer_country_summary.png" alt="Approximate share of River-class destroyer major components by sourcing country" width="50%">
 
 ## Research Questions
 
