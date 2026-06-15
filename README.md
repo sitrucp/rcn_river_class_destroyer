@@ -1,6 +1,6 @@
 # River-Class Destroyer Supply-Chain Analysis
 
-This project is an independent research exercise examining the River-class
+This project is an ChatGPT 5.5 agent research exercise examining the River-class
 destroyer being built for the Royal Canadian Navy. It explores where the
 vessels' major systems, components, materials, and equipment are expected to
 come from, with particular attention to the amount of Canadian content.
